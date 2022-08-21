@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+ul {
+    /* margin: auto; */
+    position: fixed;
+    transform: translate(-50%, -50%);
+    left: 48%;
+    top: 300px;
+}
+p{
+    padding: 10px;
+}
+h1 {
+    color: purple;
+}
+h2 {
+    color: chocolate;
+}
+/* ol {
+    position: fixed;
+    transform: translate(-50%, -50%);
+    left: 48%;
+    top: 550px;
+
+} */
+ol {
+    list-style-position: inside
+}
